@@ -1,0 +1,12 @@
+{
+  "projectId": "AIStudioTabLister",
+  "projectPath": "/Users/weightless/MUSTA_DEVELOPMENT/Chrome_Extensions/AIStudioTabLister",
+  "lastUpdated": "2026-09-15T21:56:00+07:00",
+  "manifestVersion": 3,
+  "status": "ready_for_testing",
+  "testsPassed": true,
+  "environment": {
+    "os": "macOS",
+    "runtime": "Chromium MV3 Service Worker"
+  }
+}
